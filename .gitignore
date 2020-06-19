@@ -1,0 +1,15 @@
+._.DS_Store
+.DS_Store
+._*
+*.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+*.fuse
+/.idea
+/venv
+data/sample_2_tension/Strain_*
+data/Instron_data/Instron_*
+data/peak_ranges*
+data/~*
+
+
